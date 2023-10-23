@@ -22,6 +22,8 @@ main {
 
 .autore {
     color: grey;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 .data {
@@ -31,4 +33,9 @@ main {
 
 .the-booleaner {
     color: rgb(40, 173, 230);
+    font-weight: lighter;
+}
+
+.immagini {
+    font-size: 10px;
 }
