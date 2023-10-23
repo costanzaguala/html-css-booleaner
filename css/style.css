@@ -7,10 +7,28 @@ header {
 
 h1 {
     font-size: 30px;
-    display: inline;
+    width: 700px;
+    margin-bottom: auto;
 }
 
 main {
     margin: auto;
     width: fit-content;
+}
+
+.sezione-titolo-autore-data {
+    margin-bottom: 20px;
+}
+
+.autore {
+    color: grey;
+}
+
+.data {
+    color: grey;
+    font-size: 10px;
+}
+
+.the-booleaner {
+    color: rgb(40, 173, 230);
 }
