@@ -63,3 +63,15 @@ thead {
 tbody tr:nth-child(odd) {
     background-color: rgb(178, 230, 241);
 }
+
+.container {
+    position: relative;
+    color: white;
+}
+
+.testo-alto-sinistra {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: white;
+}
