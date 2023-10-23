@@ -39,3 +39,8 @@ main {
 .immagini {
     font-size: 10px;
 }
+
+.testo-articolo {
+    max-width: 1000px;
+    text-align: justify;
+}
