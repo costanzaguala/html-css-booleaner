@@ -5,6 +5,12 @@ header {
     background-color: rgba(79, 160, 255, 0.8);
 }
 
+.logo {
+    width: 150px;
+    padding-top: 30px;
+    padding-left: 320px;
+}
+
 h1 {
     font-size: 30px;
     width: 700px;
