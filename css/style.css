@@ -66,6 +66,10 @@ thead {
     color: white;
 }
 
+.larghezza-celle {
+    width: 300px;
+}
+
 tbody tr:nth-child(odd) {
     background-color: rgb(178, 230, 241);
 }
